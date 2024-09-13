@@ -1,0 +1,4 @@
+EventManager    KEYWORD1
+makeEvent       KEYWORD2
+manageEvents    KEYWORD2
+removeEvent     KEYWORD2
